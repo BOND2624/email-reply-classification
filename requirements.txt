@@ -1,0 +1,5 @@
+flask
+groq
+pandas
+python-dotenv
+streamlit
